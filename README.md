@@ -1,2 +1,0 @@
-# RemixSimpleStorage
-# RemixSimpleStorage
