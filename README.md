@@ -1,2 +1,2 @@
-# SimpleStorage
-Basic Solidity example that stores people's favourite number and function to retrieve people's favourite number
+# Simple-Storage
+Basic Solidity example that stores people's favourite number and function to retrieve favourite number
